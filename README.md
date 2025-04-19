@@ -1,7 +1,8 @@
 ```markdown
 # 🌸 Clustering Analysis on Iris Dataset
 
-This project demonstrates and compares the performance of various clustering algorithms (K-Means, Hierarchical, and Mean Shift) on the Iris dataset using different preprocessing strategies (Normalization and PCA).
+This project demonstrates and compares the performance of various clustering algorithms
+(K-Means, Hierarchical, and Mean Shift) on the Iris dataset using different preprocessing strategies (Normalization and PCA).
 
 ## 📊 Algorithms Used
 
