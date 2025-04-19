@@ -7,23 +7,23 @@ preprocessing strategies (Normalization and PCA).
 
 ## 📊 Algorithms Used
 
-1. **K-Means Clustering**
-2. **Hierarchical Clustering (Ward Linkage)**
-3. **Mean Shift Clustering**
+1. K-Means Clustering
+2. Hierarchical Clustering (Ward Linkage)
+3. Mean Shift Clustering
 
 ## 🧪 Preprocessing Strategies
 
-- **Original**: Raw feature data from the Iris dataset.
-- **Normalized**: Standardized data using `StandardScaler`.
-- **PCA**: Principal Component Analysis applied directly to original data (2 components).
-- **Normalized + PCA**: PCA applied after standardization.
+- Original: Raw feature data from the Iris dataset.
+- Normalized: Standardized data using `StandardScaler`.
+- PCA: Principal Component Analysis applied directly to original data (2 components).
+- Normalized + PCA: PCA applied after standardization.
 
 ## 📈 Evaluation Metrics
 
 Each clustering output is evaluated using the following metrics:
-- **Silhouette Score**: Measures cohesion and separation.
-- **Calinski-Harabasz Index**: Ratio of between-cluster dispersion to within-cluster dispersion.
-- **Davies-Bouldin Index**: Lower values indicate better clustering.
+- Silhouette Score: Measures cohesion and separation.
+- Calinski-Harabasz Index: Ratio of between-cluster dispersion to within-cluster dispersion.
+- Davies-Bouldin Index: Lower values indicate better clustering.
 
 ## 📁 Project Structure
 
