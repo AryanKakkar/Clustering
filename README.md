@@ -25,16 +25,6 @@ Each clustering output is evaluated using the following metrics:
 - Calinski-Harabasz Index: Ratio of between-cluster dispersion to within-cluster dispersion.
 - Davies-Bouldin Index: Lower values indicate better clustering.
 
-## 📁 Project Structure
-
-```
-.
-├── clustering_analysis.py       # Main script to run clustering and evaluation
-├── clustering_results.csv       # Exported results with scores
-├── dendrogram.png               # Optional saved dendrogram visualization
-└── README.md                    # This file
-```
-
 ## 🧵 How to Run
 
 1. Make sure you have Python 3.x installed.
