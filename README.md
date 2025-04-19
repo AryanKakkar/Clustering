@@ -1,5 +1,3 @@
-Got it! Here's your clean and simple `README.md` file in a **single code block**, with **no mention of color customization**, and just a reference to the dendrogram being displayed:
-
 ```markdown
 # 🌸 Clustering Analysis on Iris Dataset
 
